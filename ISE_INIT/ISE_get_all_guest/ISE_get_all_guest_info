@@ -64,6 +64,3 @@ while pages != "-":
         #print(page)
     except:
         pages = "-"
-
-    
-    
